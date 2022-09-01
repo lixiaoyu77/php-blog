@@ -1,0 +1,7 @@
+@charset "utf-8";
+section { padding: 35px 0; width: 100%; min-height: 640px; background: gainsboro }
+section .comment { margin: 0 auto; padding: 10px; width: 620px; min-height: 500px; background-color: white; border-radius: 15px; }
+
+section .comment a  { color: blue;  }
+
+footer { margin-top: 0; }

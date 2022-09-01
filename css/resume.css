@@ -1,0 +1,58 @@
+html,body {
+    margin: 0px;
+    padding: 10px;
+    }
+.box{
+    border: 1px black solid;
+    margin:0px auto; 
+    width:620px;
+    height:800px;
+    }
+
+.left-box{
+    background-color: rgb(28, 186, 230);
+    width: 33%;
+    height: 100%;
+    float:left;
+    }
+.me-img{
+    text-align:center;
+    margin-left:20%;
+    width:60%;
+    }
+.me-img h6{
+    font-size: 11.5px;
+    }
+.me-img img{
+    margin-top:15px;
+    width:110px;
+    height:130px;
+    }
+.basic-information{
+    margin-left:30px;
+    }
+    
+.honor-award{  
+    margin:0px auto;
+    margin-left:30px;
+    width:80%;
+    line-height: 15px;
+    }
+.honor-award table{
+    margin-left:30px;
+    }
+
+.right-box{
+    background-color: white;
+    width: 67%;
+    height: 100%;
+    float:right;
+    }
+.b4{
+        margin-top:0px;
+        margin-left:20px;
+        line-height: 20px;
+    }
+.b4 b{
+    font-size: 18px;
+    }
